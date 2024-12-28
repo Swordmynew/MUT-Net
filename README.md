@@ -15,16 +15,7 @@
   - [Edge Predict Module](#edge-predict-module)
 - [Loss Functions](#loss-functions)
 - [Installation](#installation)
-- [Usage](#usage)
-  - [Training](#training)
-  - [Evaluation](#evaluation)
-  - [Inference](#inference)
-  - [Configuration](#configuration)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-- [Contact](#contact)
-- [Example](#example)
+
 
 ## Features
 
