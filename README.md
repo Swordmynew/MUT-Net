@@ -100,5 +100,5 @@ To ensure robust training and precise segmentation, MUT-Net employs a combinatio
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/MUT-Net.git
+git clone https://github.com/Swordmynew/MUT-Net.git
 cd MUT-Net
