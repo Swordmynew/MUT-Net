@@ -102,3 +102,10 @@ To ensure robust training and precise segmentation, MUT-Net employs a combinatio
 ```bash
 git clone https://github.com/Swordmynew/MUT-Net.git
 cd MUT-Net
+
+### Install Dependencies
+
+It's recommended to use a virtual environment.
+
+```bash
+pip install -r requirements.txt
