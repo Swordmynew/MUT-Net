@@ -2,7 +2,6 @@
 
 ## Multi-Stage U-Shaped Transformer Network for Enhanced Image Segmentation
 
-![MUT-Net Framework](s.png)
 
 **MUT-Net** is a cutting-edge neural network architecture designed for precise and high-fidelity image segmentation tasks. Leveraging a multi-stage U-shaped transformer module combined with an edge prediction module, MUT-Net effectively captures multi-scale features and intricate boundary information, ensuring robust performance across various segmentation challenges.
 
@@ -45,7 +44,6 @@ MUT-Net comprises two main components:
 
 ### Multi-Stage U-Shaped Transformer Module
 
-![Multi-Stage U-Shaped Transformer Module](all.png)
 
 Inspired by the U-Net architecture, this module employs the Swin Transformer as the backbone encoder to capture multi-scale and long-range dependencies effectively. The decoder uses an attention mechanism to focus on relevant features during reconstruction.
 
@@ -60,7 +58,6 @@ Inspired by the U-Net architecture, this module employs the Swin Transformer as 
 
 ### Edge Predict Module
 
-![Edge Predict Module](ep.png)
 
 The Edge Predict Module enhances segmentation by focusing on object boundaries. At each decoding stage, the module predicts fine edges supervised by ground truth edge maps.
 
