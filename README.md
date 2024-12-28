@@ -15,6 +15,7 @@
   - [Edge Predict Module](#edge-predict-module)
 - [Loss Functions](#loss-functions)
 - [Installation](#installation)
+- [License](#license)
 - [Contact](#contact)
 
 
@@ -103,6 +104,12 @@ It's recommended to use a virtual environment.
 ```bash
 pip install -r requirements.txt
 ```
+
+### License
+
+This project is licensed under the MIT License.
+
+
 ### Contact
 
 For any inquiries or support, please open an issue on the GitHub repository or contact kangkejun62@gmail.com.
