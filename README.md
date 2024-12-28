@@ -14,6 +14,10 @@
   - [Edge Predict Module](#edge-predict-module)
 - [Loss Functions](#loss-functions)
 - [Installation](#installation)
+- [Train](#train)
+- [Eval](#eval)
+- [Test](#test)
+- [Dataset](#dataset)
 - [Contact](#contact)
 
 
@@ -101,6 +105,10 @@ It's recommended to use a virtual environment.
 pip install -r requirements.txt
 ```
 
-### Contact
+## Train
+
+
+
+## Contact
 
 For any inquiries or support, please open an issue on the GitHub repository or contact kangkejun62@gmail.com.
