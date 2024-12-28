@@ -107,6 +107,30 @@ pip install -r requirements.txt
 
 ## Train
 
+To start training the model, run the following command:
+
+```bash
+python MyTrain.py
+```
+
+## Eval
+To evaluate the trained model on a dataset, use the following command:
+
+```bash
+python MyEval.py
+```
+
+## Test
+
+To test the efficiency and capability of our MUT-Net on other datasets, use the following command:
+
+```bash
+python MyTest.py
+```
+
+## dataset
+
+Semantic segmentation is in JSON format, while the other files are binary image labels. One folder, "Img", contains the original images, and another folder, "GT", contains the corresponding label images. The filenames within both folders are exactly identical and correspond one-to-one.
 
 
 ## Contact
